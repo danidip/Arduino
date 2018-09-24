@@ -1,0 +1,7 @@
+SevSeg	KEYWORD1
+SetBrightness	KEYWORD2
+DisplayString	KEYWORD3
+DisplayScroll KEYWORD3
+keepScrolling KEYWORD3
+isScrolling 	KEYWORD3
+stopScrolling 	KEYWORD3

@@ -1,0 +1,10 @@
+Timer	KEYWORD1
+check	KEYWORD2
+disable	KEYWORD2
+enable	KEYWORD2
+isEnabled	KEYWORD2
+reset	KEYWORD2
+setInterval	KEYWORD2
+getInterval	KEYWORD2
+setAutoreset	KEYWORD2
+getAutoreset	KEYWORD2

@@ -1,0 +1,14 @@
+HTTP/1.0 200 OK
+Content-Type: text/html
+Server: Arduino ethercard fred mod
+
+<html>
+  <head>
+  <title>multipackets Test</title>
+  </head>
+  <body>
+    <a href='/'>Start here</a><br>
+    <a href='/test.txt'>Text document on sd card</a><br>
+    <a href='/sd/image.jpg'>Image test as jpg</a><br>
+    <a href='/sd/img.jpg'>Image test as php</a><br>
+	
